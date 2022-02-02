@@ -6,8 +6,10 @@ Welcome to the Neognosis Workflow Tools repository! Here you can find developmen
 # Blender Addons
 The Blender Addons folder contains lots of utilities for Blender that will help with BallisticNG track development. The most important one is **NeoTileMap**, which contains the Blender portion of the Tilemap Builder utility.
 
-
 # Tilemap Builder
 The Tilemap Builder folder contains builds of the program with the same name. It's a standalone program written in Unity to aid with creating UV rects out of existing images or building texture atlases with diffuse, illumination and reflection masks entirely from scratch.
 
 It's currently available for Windows and Linux.
+
+# Can I use these tools for non BallisticNG use?
+Yes! If you find these tools legitimately useful for your workflow in non BallisticNG artwork then please feel free to use them. We ask for nothing in return, although a credit would be appreciated :)
