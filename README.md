@@ -12,4 +12,4 @@ The Tilemap Builder folder contains builds of the program with the same name. It
 It's currently available for Windows and Linux.
 
 # Can I use these tools for non BallisticNG use?
-Yes! If you find these tools legitimately useful for your workflow in non BallisticNG artwork then please feel free to use them. We ask for nothing in return, although a credit would be appreciated :)
+Yes! If you find these tools useful for your workflow in non BallisticNG artwork then please feel free to use them. We ask for nothing in return, although a credit would be appreciated :)
