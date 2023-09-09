@@ -1,3 +1,13 @@
+# Moving
+The Neognosis Workflow Tools are being separated out into individual repositories for improved release rollouts and to provide pre-configured Pycharm projects for others to develop off of. This repository will eventually become just a readme to point to everything.
+
+### Blender Addons:
+* [NeoTileMap](https://github.com/Neognosis-Workflow/NeoObjects)
+* [NeoTrm](https://github.com/Neognosis-Workflow/NeoTrm)
+* [NeoModeling](https://github.com/Neognosis-Workflow/NeoTrm)
+* [NeoObjects](https://github.com/Neognosis-Workflow/NeoObjects)
+
+-----------
 # Neognosis Workflow Tools
 Welcome to the Neognosis Workflow Tools repository! Here you can find development tools for BallisticNG.
 
