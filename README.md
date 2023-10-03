@@ -2,9 +2,9 @@
 The Neognosis Workflow Tools are being separated out into individual repositories for improved release rollouts and to provide pre-configured Pycharm projects for others to develop off of. This repository will eventually become just a readme to point to everything.
 
 ### Blender Addons:
-* [NeoTileMap](https://github.com/Neognosis-Workflow/NeoObjects)
+* [NeoTileMap](https://github.com/Neognosis-Workflow/NeoTileMap)
 * [NeoTrm](https://github.com/Neognosis-Workflow/NeoTrm)
-* [NeoModeling](https://github.com/Neognosis-Workflow/NeoTrm)
+* [NeoModeling](https://github.com/Neognosis-Workflow/NeoModeling)
 * [NeoObjects](https://github.com/Neognosis-Workflow/NeoObjects)
 
 -----------
